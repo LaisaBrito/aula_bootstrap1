@@ -1,0 +1,21 @@
+.navbar{
+    background-color: rgb(187, 196, 204);
+}
+
+.quemsomos{
+    background-color: rgb(131, 187, 243);
+}
+
+.margin{
+    padding-top: 50px ;
+    padding-bottom: 50px;
+}
+
+.contato{
+    background-color: rgb(131, 187, 243);
+}
+
+.bg-footer{
+    background-color: black;
+    color: aliceblue;
+}
