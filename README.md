@@ -1,5 +1,5 @@
 # aula_bootstrap1
-Utilizando o bootstrap
+Utilizando o bootstrap minha primeira experiencia!! :)
     <!DOCTYPE html>
     <html lang="pt br">
         <head>
@@ -86,4 +86,3 @@ Utilizando o bootstrap
              
         </body>
     </html>
-    
